@@ -1,2 +1,0 @@
-bar 1 + 2 = 3
-Patricia adding a new line
